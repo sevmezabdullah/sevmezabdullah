@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Mobile and Web App Development<br>I'm currently learning Typescript<br>Ask me about ReactJS React Native and NodeJS
+🚀I'm currently working on Mobile and Web App Development<br>👨‍💻I'm currently learning Typescript<br>✉️Ask me about ReactJS React Native and NodeJS
 
 
 ## 🌐 Socials:
